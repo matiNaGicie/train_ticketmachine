@@ -1,0 +1,5 @@
+Train1,Warszawa,Krakow,08:00,10:00,50
+Train2,Katowice,Opole,09:00,11:30,60
+Train3,Wroclaw,Berlin,12:00,14:00,70
+Train4,Warszawa,Poznan,12:00,14:00,70
+Train5,Praga,Budapeszt,12:00,14:00,70

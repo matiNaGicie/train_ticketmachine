@@ -1,0 +1,14 @@
+# ninja log v6
+10	1319	7403429864979305	TicketMachine_11_autogen/timestamp	3f43d2f06c744e9c
+10	1319	7403429864979305	TicketMachine_11_autogen/mocs_compilation.cpp	3f43d2f06c744e9c
+10	1319	7403429864979305	C:/Users/PC/Desktop/university/6_sem/oopcpp/biletomat/TicketMachine_11/build/Desktop-Debug/TicketMachine_11_autogen/timestamp	3f43d2f06c744e9c
+10	1319	7403429864979305	C:/Users/PC/Desktop/university/6_sem/oopcpp/biletomat/TicketMachine_11/build/Desktop-Debug/TicketMachine_11_autogen/mocs_compilation.cpp	3f43d2f06c744e9c
+1342	3518	7403429866375573	CMakeFiles/TicketMachine_11.dir/train.cpp.obj	a34461e9f339d807
+1349	4636	7403429866445389	CMakeFiles/TicketMachine_11.dir/user.cpp.obj	5823ea3b1acbdef8
+1336	5271	7403429866315739	CMakeFiles/TicketMachine_11.dir/main.cpp.obj	1ed0e80df7aafc09
+1330	6028	7403429866255894	CMakeFiles/TicketMachine_11.dir/TicketMachine_11_autogen/mocs_compilation.cpp.obj	ff56d9b67ed953f9
+1364	6317	7403429866594992	CMakeFiles/TicketMachine_11.dir/loginwindow.cpp.obj	7d6eac76328f2d58
+1373	6358	7403429866684757	CMakeFiles/TicketMachine_11.dir/ticketpurchasewindow.cpp.obj	fb2ba9633433c9f4
+1381	7122	7403429866764538	CMakeFiles/TicketMachine_11.dir/adminwindow.cpp.obj	50a7481bb9f5eed1
+1356	7187	7403429866515206	CMakeFiles/TicketMachine_11.dir/ticketmachine.cpp.obj	1b215bd137e83d7c
+7187	7578	7403429924824317	TicketMachine_11.exe	d2b1bb36200f65a3
